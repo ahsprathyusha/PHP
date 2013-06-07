@@ -66,6 +66,10 @@ class PHPUnit_Runner_Version
     {
         return '@package_version@';
     }
+    public static function id()
+    {
+        return '@package_version@';
+    }
 
     /**
      * @return string
