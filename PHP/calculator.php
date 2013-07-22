@@ -2,7 +2,7 @@
 
 
 
-echo "Calculator Application";
+echo "Calc Application";
 
 ?> 
 
